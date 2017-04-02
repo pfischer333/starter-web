@@ -11,3 +11,10 @@ We are using this for the course.
 ## Deployment
 A web application can be easily deployed.
 
+##APIs
+This application will have three APIs
+1.
+2.
+3.
+
+
